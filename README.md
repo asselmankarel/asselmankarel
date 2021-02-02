@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Karel</h1>
 <h3>Fullstack developer</h3>
 
-- 👨‍💻 I’m currently learning **React**
+👨‍💻 I’m currently learning **React**
 
-- 📧 How to reach me **asselman.karel@gmail.com**
+📧 How to reach me **asselman.karel@gmail.com**
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
@@ -34,5 +34,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/karelasselman/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karelasselman" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karelasselman/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karelasselman" height="30" width="40" style="color:blue"/></a>
 </p>
