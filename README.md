@@ -32,7 +32,7 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/karelasselman/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karelasselman" height="30" width="40" style="color:blue"/></a>
+  <a href="https://www.linkedin.com/in/karelasselman/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karelasselman" height="30" width="40" style="fill:#0077B5;"/></a>
 </p>
