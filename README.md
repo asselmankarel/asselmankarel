@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Karel</h1>
 <h3>Fullstack developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 👨‍💻 I’m currently learning **React**
 
-- 📫 How to reach me **asselman.karel@gmail.com**
+- 📧 How to reach me **asselman.karel@gmail.com**
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
