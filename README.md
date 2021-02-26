@@ -34,6 +34,8 @@
 
 </p>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=asselmankarel)
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/karelasselman/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="karelasselman" height="30" width="40"/></a>
