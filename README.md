@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Karel</h1>
 <h3>Fullstack developer</h3>
 
-👨‍💻 - I’m currently learning **symfony**
+👨‍💻 - I’m currently learning **.Net**
 
 📧 - How to reach me **asselman.karel@gmail.com**
 
