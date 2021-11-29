@@ -1,19 +1,20 @@
 <h1>Hi 👋, I'm Karel</h1>
 <h3>Fullstack developer</h3>
 
-👨‍💻 - I’m currently learning **.Net**
+👨‍💻 - I’m currently learning **Docker**
 
 📧 - How to reach me **asselman.karel@gmail.com**
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
 </p>
   
 <h3 align="left">Frameworks</h3>
 <p align="left">
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40" /></a>
   <a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
   <a href="https://symfony.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
