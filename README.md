@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Karel</h1>
 <h3>Fullstack developer</h3>
 
-👨‍💻 - I’m currently learning **Rust**
-
 📧 - How to reach me **asselman.karel@gmail.com**
 
 <h3 align="left">Programming Languages</h3>
